@@ -1,2 +1,8 @@
-
-/* Your CSS Code here. */
+.questions {
+  background-color: #fff8fe;  /* Light pink background */
+  height: 50px;               /* Fixed height */
+  margin-top: 20px;           /* Spacing between questions */
+  padding: 15px;              /* Inner spacing */
+  max-width: 600px;           /* Restrict maximum width */
+  border-left: 8px solid green; /* Left border styling */
+}
